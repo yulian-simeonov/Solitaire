@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>main_menu_background.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{768,1024}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{768,1024}}</string>
+                <key>sourceSize</key>
+                <string>{768,1024}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>menu_background_ipad.pvr</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:cf283c9229e6bcc57eb1b30a208749d2:c39f33d711a0236b7a1fb5518c7a937a:52a22d9af37fe3fa36602da29858435c$</string>
+            <key>textureFileName</key>
+            <string>menu_background_ipad.pvr</string>
+        </dict>
+    </dict>
+</plist>
